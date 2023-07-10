@@ -1,0 +1,264 @@
+@media (max-width:450px) {
+
+    .onestep{
+        flex-direction: column;
+  
+
+    }
+    .onestep .col1 h1{
+       font-size: 26px;
+       text-align: start;
+    width: 100%;
+
+    }
+    .onestep .col2{
+        order: -1;
+    }
+    .numbers{
+        /* flex-direction: column; */
+        justify-content: center;
+        gap:20px;
+
+    }
+ 
+    .row4 .row41{
+        flex-direction: column;
+       
+        
+
+    }
+    .row7 .r2{
+        align-items: stretch;
+    }
+    .row7 .r2 .col2{
+        order: -1;
+        margin-top: -80px;
+        padding-bottom: 40px;
+    }
+    .row7 .r2 .col2 .laptop{
+        width: 100%;
+        height: auto;
+        /* padding-bottom: 180px; */
+      
+    }
+    .map{
+        width: 100%;
+        height: 250px;
+        margin-bottom: 30px;
+    }
+    .header .outernav{
+        display: none; 
+    }
+    div.newnav{
+        display: flex; 
+        justify-content: flex-start;
+        /* padding: 10px 0px; */
+        align-items: center;
+    }
+    .newnav .logo{
+        margin-left: 10px;
+       
+ 
+    }
+   
+    .row5 .r1{
+        flex-direction: column;
+        align-items: center;
+        margin: auto;
+
+    }
+    .row4 .row41 .col42{
+        /* flex-direction: column; */
+        justify-content: center;
+        align-content: center;
+  
+
+    }
+    .ocean{
+        flex-direction: column;
+
+    }
+    .row6{
+        flex-direction: column;
+
+    }
+    .row7 .r1{
+        flex-direction: column;
+
+        align-items: center;
+        padding-right: 40px;
+
+    }
+    .row7 .r1 button{
+        margin-top: 10px;
+        margin-bottom: 20px;
+
+    }
+    .row7 .r2{
+        flex-direction: column;
+        align-items: stretch;
+        margin-bottom: 40px;
+      
+
+    }
+    .row7 .r2 .box{
+        margin-bottom: 10px;
+
+    }
+    .row8 .col{
+        flex-wrap: wrap;
+        align-items: center;
+        gap:10px;
+        justify-content: center;
+        justify-items: center;
+
+    }
+    .row8 .col .indus{
+      min-width: 100px;
+
+    }
+    .row10 .r2 {
+        flex-direction: column;
+
+    }
+    .row9 .col2{
+        order: -1;
+    }
+    .row9{
+        flex-direction: column;
+
+    }
+    .row9 h2{
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .row9 .col1 p {
+        padding-top: 2px;
+        padding-bottom: 2px;
+    }
+    .row9 .col1 button{
+     width: 100%;
+    }
+    .row11 .r{
+        flex-direction: column;
+
+    }
+    .row14 .oldrow14{
+        flex-direction: column;
+        display: none;
+    }
+    .row14 .newrow14{
+        flex-direction: column;
+    }
+    .row14 .outer-newrow14{
+        background:  rgb(251, 220, 0);
+       display: flex;
+       flex-direction: column;
+    }
+    .row15{
+        display: none;
+
+    }
+    .row16{
+        flex-direction: column;
+    }
+    .row16 .col1{
+        font-size: 12px;
+        margin-left: 10px;
+        margin-top: 10px;
+        margin-bottom: 30px;
+    }
+    .row16 .col2{
+        display: none;
+
+    }
+    .row16 .col3{
+        margin-top: 20px;
+        order: -1;
+        flex-direction: row-reverse;
+        justify-content: start;
+    }
+    .row16 .col3 .r1{
+        padding-left: 10px;
+        /* height: 500px; */
+    }
+    .row16 .col3 .r1 .globe{
+        margin-top: -1px;
+       height: 16px;
+       width: auto;
+    }
+    .row16 .col3 .r1 h3{
+        margin-top: -4px;
+
+    }
+    .row16 .col3 .r2{
+       padding-left: 10px;
+       gap: 5px;
+    }
+    
+
+    .row13{
+        flex-direction: column;
+
+    }
+    .row13 .col1{
+        display: none;
+    }
+
+    .row13 .col2 h3{
+        text-align: center;
+    }
+    .row13 .col2 .r{
+        margin-top: 20px;
+    }
+    .row13 .col2 p{
+       text-align: center;
+    }
+    .header .hero {
+        flex-direction: column;
+
+    }
+    .header .col2{
+        order: -1;
+    }
+    .video{
+        height: auto;
+        width: 100%;
+    }
+    .section{
+        padding: 40px 5%;
+    }
+    .row4 .row41{
+        grid-template-columns: 1fr;
+    }
+    .row4 .row41 .col41 h4{
+        text-align: start;
+        padding-bottom: 20px;
+    }
+    
+    .row4 .ourproduct h3{
+        text-align: start;
+        padding-bottom: 20px;
+    }
+    .row6 .col2{
+        padding-top: 20px;
+    }
+    .navigationBar a.icon {
+        float: left;
+        display: block;
+      }
+      .navigationBar.responsive {position: relative;}
+  .navigationBar.responsive a.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .navigationBar.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+
+}
+
+

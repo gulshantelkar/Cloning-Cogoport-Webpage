@@ -1,0 +1,43 @@
+.row16{
+    display: flex;
+    justify-content: space-between;
+    background:rgb(235, 190, 0) ;
+}
+.row16 .col3{
+    display: flex;
+    justify-content: space-between;
+}
+.row16 .col3 .r1{
+    display: flex;
+    justify-content: space-between;
+    /* margin-left: 40px; */
+}
+.row16 .col3 .r2{
+    display: flex;
+    justify-content: space-between
+}
+.globe{
+    height: 20px;
+    width: 20px;
+    margin-top: 2px;
+}
+.row16 .col3 .r1 h3{
+box-sizing :border-box;
+display :block;
+height :22.5px;
+margin-bottom :6px;
+width :100px;
+
+font-family: "Ubuntu",sans-serif;
+font-size :15px;
+font-weight: 700;
+line-height :22.5px;
+text-decoration-color: rgb(238, 52, 37);
+text-decoration-line :underline;
+text-decoration-style :solid;
+text-decoration-thickness :auto;
+color :rgb(238, 52, 37);
+cursor: pointer;
+-webkit-font-smoothing :antialiased;
+margin-left:8px;
+}

@@ -1,0 +1,151 @@
+.row11 .r{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.row11{
+  margin-top: -20px;
+}
+.row11 h1{
+  text-align: center;
+  margin-bottom: 25px;
+}
+.row11 .r .col{
+box-sizing: border-box;
+display :block;
+height :444.188px;
+margin-bottom :40px;
+margin-left :10px;
+margin-right :10px;
+overflow-x :hidden;
+overflow-y :hidden;
+
+font-family :"PT Sans", sans-serif;
+font-size :14px;
+line-height: 21px;
+text-align :start;
+color: rgb(0, 0, 0);
+box-shadow :rgba(201, 201, 201, 0.5) 0px 3px 6px 0px;
+cursor: pointer;
+-webkit-font-smoothing :antialiased;
+border-bottom-left-radius :8px;
+border-bottom-right-radius: 8px;
+border-top-left-radius :8px;
+border-top-right-radius: 8px;
+}
+.new{
+  height: 200;
+
+}
+.row11 .r .col h3{
+box-sizing :border-box;
+display: block;
+height :24px;
+margin-bottom: 5px;
+margin-top :10px;
+width :343.984px;
+
+font-family: "Ubuntu",sans-serif;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+text-align: start;
+color: rgb(238, 52, 37);
+cursor :pointer;
+-webkit-font-smoothing :antialiased;
+margin-left:10px ;
+
+}
+.row11 .r .col h2{
+  box-sizing :border-box;
+  display :block;
+  height: 81px;
+  margin-bottom: 5px;
+  margin-top :10px;
+  width :343.984px;
+
+   font-family: "Ubuntu",sans-serif;
+  font-size :18px;
+  font-weight: 700;
+  line-height :27px;
+  text-align :start;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  -webkit-font-smoothing: antialiased;
+  margin-left:10px ;
+}
+.row11 .r .col h4{
+  box-sizing: border-box;
+display :block;
+height :67.1875px;
+margin-bottom: 14px;
+margin-top: 10px;
+max-height :67.2px;
+overflow-x: hidden;
+overflow-y: hidden;
+width: 343.984px;
+font-family: "PT Sans", sans-serif;
+font-size :13px;
+line-height :24px;
+text-align: start;
+/* text-decoration-thickness :auto; */
+color: rgb(0, 0, 0);
+cursor: pointer;
+-webkit-font-smoothing :antialiased;
+margin-left:10px ;
+
+}
+.row11 .r .col .read{
+  display: flex;
+  justify-content: space-between;
+}
+.row11 .r .col h5{
+  align-items: center;
+  box-sizing: border-box;
+  font-family :"PT Sans", sans-serif;
+  font-size :14px;
+  font-weight: 700;
+  line-height :21px;
+  text-align :start;
+  color: rgb(238, 52, 37);
+  cursor :pointer;
+  margin-left: 10px;
+  -webkit-font-smoothing: antialiased;
+}
+.row11 .r .col h6{
+  box-sizing: border-box;
+
+  font-family: "Ubuntu",sans-serif;
+font-size :14px;
+font-weight: 700;
+line-height: 21px;
+text-align :start;
+color :rgb(154, 154, 154);
+cursor :pointer;
+-webkit-font-smoothing: antialiased;
+margin-block-end :5px;
+margin-block-start: 0px;
+margin-inline-end: 0px;
+margin-inline-start: 0px;
+margin-right: 10px;
+}
+.row11 button{
+  display: block;
+  padding-bottom: 4px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 4px;
+  font-family: "PT Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: normal;
+  line-height: 16.8px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+background-color: rgb(238, 52, 37);
+border-radius: 4px;
+border: none;
+padding: 10px 40px;
+margin: auto;
+
+}

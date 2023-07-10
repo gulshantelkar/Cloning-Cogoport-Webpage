@@ -1,0 +1,175 @@
+.row7{
+    margin-top: 80px;
+    /* margin-left: 210px;
+    margin-right: 210px;
+    padding-left: 160px;
+    padding-right:160px ; */
+    margin-bottom: -60px;
+    padding-bottom: -120px;
+}
+.row7 h2{
+box-sizing: border-box;
+display: block;
+text-align: center;
+font-family: "Ubuntu",sans-serif;
+font-size: 28px;
+font-weight: 700;
+line-height :33.6px;
+color :rgb(0, 0, 0);
+-webkit-font-smoothing :antialiased;
+margin-block-end :28px;
+margin-block-start: 0px;
+margin-inline-end :0px;
+margin-inline-start :0px;
+}
+.row7 .r1{
+    display: flex;
+    justify-content: center;
+    margin-left: 30px;
+  
+}
+.row7 .r1 button{
+align-items :center;
+box-sizing :border-box;
+display: flex;
+height: 40px;
+justify-content :center;
+margin-bottom: 0px;
+margin-left: 20px;
+margin-right :20px;
+margin-top :0px;
+min-width :72px;
+padding-bottom :20px;
+padding-left :20px;
+padding-right: 20px;
+padding-top: 20px;
+width :200px;
+font-family :"PT Sans", sans-serif;
+font-feature-settings: normal;
+font-kerning :auto;
+font-optical-sizing :auto;
+font-size :14px;
+font-stretch: 100%;
+font-style: normal;
+font-variant-alternates: normal;
+font-variant-caps: normal;
+font-variant-east-asian :normal;
+font-variant-ligatures: normal;
+font-variant-numeric :normal;
+font-variation-settings :normal;
+font-weight :700;
+letter-spacing :normal;
+line-height: 16.8px;
+text-align :center;
+text-indent :0px;
+text-shadow :none;
+text-transform :none;
+word-spacing :0px;
+color :rgb(0, 0, 0);
+background-color :rgb(251, 220, 0);
+border-bottom-color: rgb(251, 220, 0);
+border-bottom-style: none;
+border-bottom-width: 0px;
+border-image-outset :0;
+border-image-repeat: stretch;
+border-image-slice :100%;
+border-image-source: none;
+border-image-width: 1;
+border-left-color :rgb(251, 220, 0);
+border-left-style: none;
+border-left-width :0px;
+border-right-color: rgb(251, 220, 0);
+border-right-style: none;
+border-right-width: 0px;
+border-top-color: rgb(251, 220, 0);
+border-top-style :none;
+border-top-width :0px;
+cursor :pointer;
+outline-color :rgb(0, 0, 0);
+outline-style: none;
+outline-width: 0px;
+/* -webkit-border-image: none; */
+transition-delay: 0s, 0s, 0s;
+transition-duration: 0.1s, 0.1s, 0.1s;
+transition-property :color, background-color, border-color;
+transition-timing-function: linear, linear, linear;
+text-rendering :auto;
+-webkit-font-smoothing :antialiased;
+writing-mode: horizontal-tb;
+appearance: auto;
+border-bottom-left-radius: 20px;
+border-bottom-right-radius :20px;
+border-top-left-radius :20px;
+border-top-right-radius :20px;
+will-change :color, background-color, bor;
+}
+.row7 .r2{
+    display: flex;
+    justify-content: space-between;
+}
+.row7 .r2 .box p{
+font-size: 15px;
+font-family: "PT Sans", sans-serif;
+line-height: 1.5;
+}
+.row7 .r2 .box .rbox{
+display: flex;
+margin-top: -10px;
+
+}
+.row7 .r2 .box .rbox h2{
+    margin-top: 20px;
+    font-size: 20px;
+    padding-top: 10px;
+    margin-left: 10px;
+
+}
+.row7 .r2 .box{
+    box-sizing: border-box;
+    display :block;
+    height :257px;
+    margin-bottom :120px;
+    padding-bottom :16px;
+    padding-left :16px;
+    padding-right :16px;
+    padding-top: 16px;
+    /* width :300px; */
+    font-family: "PT Sans", sans-serif;
+    font-size :14px;
+    line-height: 21px;
+    color: rgb(0, 0, 0);
+    box-shadow :rgba(169, 188, 218, 0.65) 0px 1px 6px 0px;
+    -webkit-font-smoothing :antialiased;
+    border-bottom-left-radius :10px;
+    border-bottom-right-radius :10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+
+}
+/* .row7 .r2 .col2 {
+    display: flex;
+} */
+.row7 .r2 .col1{
+    flex: 1;
+}
+.row7 .r2 .col2{
+    flex: 2;
+}
+.row7 .r2 .col3{
+    flex: 1;
+}
+.row7 .r2 .col2 .laptop{
+
+
+padding-top: 120px;
+/* height :320px; */
+/* width :560px; */
+width: 100%;
+font-family :"PT Sans", sans-serif;
+font-size :14px;
+line-height: 21px;
+color: rgba(0, 0, 0, 0);
+-webkit-font-smoothing: antialiased;
+
+
+}

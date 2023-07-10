@@ -1,0 +1,19 @@
+.row15{
+    display: flex;
+    justify-content: space-between;
+}
+.row15 ul{
+    list-style-type: none;
+    margin-top: 6px;
+
+}
+.row15{
+    background:rgb(235, 190, 0) ;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 60px;
+}
+.row15 ul li{
+    padding-top: 14px;
+    font-size: 15px;
+ }

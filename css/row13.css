@@ -1,0 +1,77 @@
+.row13{
+    display: flex;
+gap: 20px;
+    justify-content: center;
+   margin-top: 40px;
+    padding-top: 40px;
+   
+    padding-bottom: 40px;
+    
+}
+.outer-row13{
+    background: #fbdc00;
+}
+.row13 .col2 h3{
+box-sizing: border-box;
+display: block;
+/* height :33.5938px; */
+margin-bottom:0px;
+margin-left :0px;
+margin-right: 0px;
+margin-top: 0px;
+
+font-family: "Ubuntu",sans-serif;
+font-size: 28px;
+font-weight:700;
+line-height: 33.6px;
+color :rgb(0, 0, 0);
+-webkit-font-smoothing: antialiased;
+margin-block-end :0px;
+margin-block-start :0px;
+margin-inline-end: 0px;
+margin-inline-start: 0px;
+
+}
+
+.row13 .col2 p{
+    box-sizing :border-box;
+    padding-top: 10px;
+    display :inline;
+    height :auto;
+    width :auto;
+    font-family :"PT Sans", sans-serif;
+    font-size :16px;
+    line-height :24px;
+    color: rgb(0, 0, 0);
+    -webkit-font-smoothing: antialiased;
+}
+.row13 .col2 .r{ 
+    background: white;
+    justify-content: space-between;
+    border-radius: 8px;
+    overflow: hidden;
+    display: flex;
+    /* padding: 5px 10px; */
+    max-width: 350px;
+    margin-top: 20px;
+    /* border:1px solid grey; */
+  
+}
+.row13 .col2 .r input{
+    border: none;
+    padding: 10px 20px;
+    outline: none;
+}
+.row13 .col2 .r .col2{
+    background: red;
+    margin: 0px;
+    color : white;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+.curve{
+    background: white;
+    height: 70px;
+    clip-path: ellipse(50% 80% at 50% 0%);
+}
